@@ -2,10 +2,9 @@
   "name": "express-validator-recording",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
@@ -15,7 +14,6 @@
     "express": "^4.17.1",
     "express-handlebars": "^7.1.2",
     "express-validator": "^6.10.0",
-    "i": "^0.3.7",
-    "nodemon": "^2.0.7"
+    "i": "^0.3.7"
   }
 }
